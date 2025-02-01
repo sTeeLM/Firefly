@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=FrontPanel\FrontPanel.PrjPcb
+[Project2]
+ProjectPath=RarePanel\RarePanel.PrjPcb

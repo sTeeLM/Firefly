@@ -1,0 +1,61 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+*.htm
+*.MAP
+*.SBR
+
+# Precompiled Headers
+*.gch
+*.pch
+*._i
+*.__i
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Logs
+*.LOG
+*.log
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.LST
+*.lnp
+*.ORC
+*.M51
+
+# Debug files
+*.dSYM/
+*.su
+
+# Backup files
+*.pdsbak
+*.bak
+*.tmp
+*.PcbDocPreview
+*.SchDocPreview
+*.SchLib.Zip
+*.PcbDoc.Zip
+*.SchDoc.Zip
+*.BomDoc.Zip
+*.PcbLib.Zip
+*.PrjPcb.Zip
+*.OutJob.Zip
+.DS_Store
