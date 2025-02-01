@@ -1,7 +1,8 @@
 # 微型长电池寿命多功能户外应急灯
 
 ## 有啥用：
-   无意间看到淘宝上有类似的户外应急灯，功能比较单一（只有一个荧光灯），还卖的不便宜，正好入手了一些超小号的8引脚单片机，放着也没啥用，自己做一个吧
+   无意间看到淘宝上有类似的户外应急灯，功能比较单一（只有一个荧光灯），还卖的不便宜，正好入手了一些超小号的8引脚单片机，放着也没啥用
+   
    平时可以挂在钥匙链上，夜间紧急停车的时候，可以开着频闪放在车后当警示，也能当手电用，登山的时候挂包上，开着荧光节能模式，一闪一闪像萤火虫，可以防止后面队友跟丢（或者是自己丢了方便被找到）。
 
 ## 功能：
@@ -24,6 +25,7 @@
 # Miniature Multifunctional Outdoor Emergency Light with Long Battery Life
 ## What It's Used For
 I happened to notice some similar outdoor emergency lights on Taobao. They have rather limited functions (only a fluorescent lamp) and are priced quite high. Coincidentally, I had acquired some ultra small 8 pin microcontrollers, which were just sitting idle, so I decided to make one on my own.
+
 Normally, it can be attached to a keychain. In case of an emergency stop at night, it can be turned on with a strobe function and placed behind the car as a warning. It can also serve as a flashlight. When going hiking, hanging it on the backpack and activating the fluorescent energy saving mode, it will flash like a firefly, preventing fellow hikers from losing track of each other (or making it easier for oneself to be located if lost).
 ## Functions
 1. Long Battery Life
