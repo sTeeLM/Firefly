@@ -43,6 +43,6 @@ Normally, it can be attached to a keychain. In case of an emergency stop at nigh
 * Fully sealed and potted for dust proof and waterproof performance.
 ## Design Details
 1. The dimensions are 35mm * 35mm * 30mm. It uses an LR2477 button cell battery with a nominal capacity of 190mAh and a discharge current of 100mA. 2. Only one LED (60mA) can be illuminated at a time. If more LEDs need to be lit, parallel connection with another battery should be considered.
-It adopts a classic design of TP4056 charging, PW5410B charge pump for buck boost to 3.3V, and USB battery switching. Additionally, a dual MOSFET design is added to prevent the battery from leaking current to TP4056, thus prolonging the storage time.
+2. It adopts a classic design of TP4056 charging, PW5410B charge pump for buck boost to 3.3V, and USB battery switching. Additionally, a dual MOSFET design is added to prevent the battery from leaking current to TP4056, thus prolonging the storage time.
 3. An 8 pin STC8G17A microcontroller combined with a TCA9534A for IO expansion is used. These components are robust and come with a built in low voltage detection function. Domestic low end chips prove to be quite powerful.
 4. It is potted with epoxy resin glue twice and requires a fair amount of manual work such as various polishing processes. For mass production, a 3D printed shell can be considered.
