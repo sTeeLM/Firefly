@@ -22,10 +22,10 @@
 4. 灌注了两次环氧树脂胶+各种打磨，需要手工比较多，量产的话可以考虑3D打印外壳
 
 # Miniature Multifunctional Outdoor Emergency Light with Long Battery Life
-##What It's Used For
+## What It's Used For
 I happened to notice some similar outdoor emergency lights on Taobao. They have rather limited functions (only a fluorescent lamp) and are priced quite high. Coincidentally, I had acquired some ultra small 8 pin microcontrollers, which were just sitting idle, so I decided to make one on my own.
 Normally, it can be attached to a keychain. In case of an emergency stop at night, it can be turned on with a strobe function and placed behind the car as a warning. It can also serve as a flashlight. When going hiking, hanging it on the backpack and activating the fluorescent energy saving mode, it will flash like a firefly, preventing fellow hikers from losing track of each other (or making it easier for oneself to be located if lost).
-##Functions
+## Functions
 1. Long Battery Life
 * Continuous on mode: 2 hours.
 * 5 second strobe mode: 24 hours.
